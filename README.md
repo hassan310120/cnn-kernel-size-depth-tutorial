@@ -8,6 +8,9 @@ Convolutional Neural Networks (CNNs) on the CIFAR-10 dataset.
 - `cnn_cifar_experiment.ipynb`: notebook containing the full runnable code
 - `tutorial.pdf`: Step-by-step tutorial explaining the methodology, experiments, and results
 
+## Licence
+This project is released under the MIT Licence.
+
 ## Requirements
 - Python 3.8+
 - TensorFlow
@@ -18,6 +21,3 @@ Convolutional Neural Networks (CNNs) on the CIFAR-10 dataset.
 Install dependencies using:
 ```bash
 pip install tensorflow numpy matplotlib
-
-## Licence
-This project is released under the MIT Licence.
